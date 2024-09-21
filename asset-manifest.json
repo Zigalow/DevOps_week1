@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/DevOps_week1/static/css/main.f855e6bc.css",
-    "main.js": "/DevOps_week1/static/js/main.43325c34.js",
+    "main.js": "/DevOps_week1/static/js/main.f386767c.js",
     "static/js/453.fb650a16.chunk.js": "/DevOps_week1/static/js/453.fb650a16.chunk.js",
     "static/media/logo.svg": "/DevOps_week1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/DevOps_week1/index.html",
     "main.f855e6bc.css.map": "/DevOps_week1/static/css/main.f855e6bc.css.map",
-    "main.43325c34.js.map": "/DevOps_week1/static/js/main.43325c34.js.map",
+    "main.f386767c.js.map": "/DevOps_week1/static/js/main.f386767c.js.map",
     "453.fb650a16.chunk.js.map": "/DevOps_week1/static/js/453.fb650a16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.43325c34.js"
+    "static/js/main.f386767c.js"
   ]
 }
